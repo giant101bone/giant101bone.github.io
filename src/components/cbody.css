@@ -1,0 +1,25 @@
+.cbody {
+    display: flex;
+    min-height:900px;
+    position:initial;
+}
+
+.cbody .circles {
+    background-color: rgb(27, 27, 27);
+    max-width:200px ;
+    min-width: 150px;
+}
+
+.cbody .posts {
+    background-color: rgb(61, 61, 61);
+    overflow:scroll;
+    width: 100%;
+
+}
+
+.cbody .recommendation {
+    background-color: rgb(44, 41, 41);
+    width: 100%;
+    max-width:200px ;
+    min-width: 150px;
+}
